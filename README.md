@@ -30,8 +30,18 @@ browser:
 
 ```
 
-As you can see, the `<h1>`, `<p>`, and `<button>` elements all have some
-built-in styles but while the number of styles applied to the first two is
+As you can see, the `<h1>`...
+![Screenshot 2023-01-21 at 15 53 49](https://user-images.githubusercontent.com/27020691/213887578-b33ebfd4-b347-4cef-a30e-38bbea495ae0.png)
+
+`<p>`...
+![Screenshot 2023-01-21 at 15 57 17](https://user-images.githubusercontent.com/27020691/213887604-0d3a8996-85ec-4a89-99c4-fbb86709808e.png)![Screenshot 2023-01-21 at 16 09 00](https://user-images.githubusercontent.com/27020691/213887683-ba9d5fe4-4f53-47ec-a94d-f084e222623c.png)
+
+
+and `<button>` elements...
+![Screenshot 2023-01-21 at 15 57 44](https://user-images.githubusercontent.com/27020691/213887586-69618c77-6bb7-49e4-92e5-2b8877a3b1dd.png)
+
+
+all have some built-in styles but while the number of styles applied to the first two is
 fairly small, there's a giganto list of styles applied to the `<button>`.
 
 Let's link our HTML to a stylesheet like so:
@@ -69,6 +79,7 @@ button {
   border-radius: 25%;
 }
 ```
+![Screenshot 2023-01-21 at 16 09 00](https://user-images.githubusercontent.com/27020691/213887689-4cc9f1e7-0677-492a-b7ad-76c5f34d04bf.png)
 
 Cool! Let's add more!
 
@@ -81,5 +92,10 @@ button {
   color: blue;
 }
 ```
+
+![Screenshot 2023-01-21 at 16 13 17](https://user-images.githubusercontent.com/27020691/213887687-61b76f47-3035-46b0-9828-562449691bed.png)
+
 You can change it up like anything else. To paraphrase Bob Ross, "the website is
 your canvas. You have total power here!"
+
+![Bob-Ross-Header-728x409](https://user-images.githubusercontent.com/27020691/213887741-2046459b-2b3e-45de-9393-b2ff99619572.jpg)
